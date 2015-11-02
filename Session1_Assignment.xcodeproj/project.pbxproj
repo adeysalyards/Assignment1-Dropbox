@@ -23,6 +23,8 @@
 		A0E9FF8F1BE56B5E006CAE77 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E9FF8E1BE56B5E006CAE77 /* PhotosViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		A0E9FF911BE56C2C006CAE77 /* SignedInSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E9FF901BE56C2C006CAE77 /* SignedInSettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		A0E9FF931BE56EB6006CAE77 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E9FF921BE56EB6006CAE77 /* ForgotPasswordViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		A0E9FFD71BE729A8006CAE77 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E9FFD61BE729A8006CAE77 /* WelcomeViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		A0E9FFD91BE73B2A006CAE77 /* ExistingFilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E9FFD81BE73B2A006CAE77 /* ExistingFilesViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +67,8 @@
 		A0E9FF8E1BE56B5E006CAE77 /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		A0E9FF901BE56C2C006CAE77 /* SignedInSettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignedInSettingsViewController.swift; sourceTree = "<group>"; };
 		A0E9FF921BE56EB6006CAE77 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		A0E9FFD61BE729A8006CAE77 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		A0E9FFD81BE73B2A006CAE77 /* ExistingFilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingFilesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +124,8 @@
 				A00B89EA1BE1EC8E00A09692 /* AppDelegate.swift */,
 				A00B89EC1BE1EC8E00A09692 /* ViewController.swift */,
 				A00B89EE1BE1EC8E00A09692 /* Main.storyboard */,
+				A0E9FFD81BE73B2A006CAE77 /* ExistingFilesViewController.swift */,
+				A0E9FFD61BE729A8006CAE77 /* WelcomeViewController.swift */,
 				A0E9FF921BE56EB6006CAE77 /* ForgotPasswordViewController.swift */,
 				A0E9FF901BE56C2C006CAE77 /* SignedInSettingsViewController.swift */,
 				A0E9FF8E1BE56B5E006CAE77 /* PhotosViewController.swift */,
@@ -286,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0E9FF8F1BE56B5E006CAE77 /* PhotosViewController.swift in Sources */,
+				A0E9FFD91BE73B2A006CAE77 /* ExistingFilesViewController.swift in Sources */,
 				A03D74581BE2FAC80023E0BF /* CreateAccountViewController.swift in Sources */,
 				A0E9FF931BE56EB6006CAE77 /* ForgotPasswordViewController.swift in Sources */,
 				A03D74541BE2FA570023E0BF /* SignInRootViewController.swift in Sources */,
@@ -294,6 +301,7 @@
 				A00B89ED1BE1EC8E00A09692 /* ViewController.swift in Sources */,
 				A03D74561BE2FAB50023E0BF /* SignInViewController.swift in Sources */,
 				A0B2D1DD1BE55C750046ADA3 /* TermsViewController.swift in Sources */,
+				A0E9FFD71BE729A8006CAE77 /* WelcomeViewController.swift in Sources */,
 				A0E9FF911BE56C2C006CAE77 /* SignedInSettingsViewController.swift in Sources */,
 				A00B89EB1BE1EC8E00A09692 /* AppDelegate.swift in Sources */,
 			);
