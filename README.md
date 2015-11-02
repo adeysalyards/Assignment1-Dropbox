@@ -14,4 +14,4 @@ Optional User Stories:
   * [x] Swipe through the welcome screens instead of just tapping them
   
   
-[https://github.com/adeysalyards/Assignment1-Dropbox/blob/master/Walkthrough.gif]
+![alt tag](https://github.com/adeysalyards/Assignment1-Dropbox/blob/master/Walkthrough.gif)
