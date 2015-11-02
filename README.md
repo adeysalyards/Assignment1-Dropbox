@@ -12,3 +12,6 @@ Optional User Stories:
   * [x] Configured a button to favorite the file (not persistant) 
   * [x] Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard. 
   * [x] Swipe through the welcome screens instead of just tapping them
+  
+  
+[https://github.com/adeysalyards/Assignment1-Dropbox/blob/master/Walkthrough.gif]
